@@ -19,10 +19,11 @@ Retracted Position
 
 ![Retracted State](2_Retracted_State.PNG)
 
-Retraction using a Pilot
+Retraction using a Pilot Valve
 
 ![Retracted Pilot](3_Pilot_Retract.PNG)
 
 ## Bill of Materials
+
 
 ## Flow of Hydraulic Oil
