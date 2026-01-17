@@ -15,4 +15,3 @@ I aim to solidify my technical knowledge on hydraulics by combining my hands-on 
 |-----------------------------------------------|----------------------------|
 | Control a Double Acting Cylinder with a 4/2 Way Valve and a Solenoid | <a href="https://github.com/RemyRoams/Learning-Hydraulics/tree/main/Task_1">Manual and Electric</a>|
 | Control a Double Acting Cylinder using a Pilot Valve for Retraction | <a href="https://github.com/RemyRoams/Learning-Hydraulics/tree/main/Task_2">Pilot Valve Retraction</a>|
-| Pressure Relief Valve | <a href="https://www.festo.com/">by-pass</a>|
