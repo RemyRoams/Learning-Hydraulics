@@ -2,7 +2,7 @@
 
 ## Overview
 
-🔹 Creating a hydraulic diagram controlling a double acting cylinder with a pilot valve for retraction.
+🔹 Creating a hydraulic diagram controlling a double acting cylinder with a pilot valve for retraction.  
 🔹 Simulating a heavy equipment.
 
 ## Hydraulic Diagrams
@@ -27,3 +27,4 @@ Retraction using a Pilot Valve
 
 
 ## Flow of Hydraulic Oil
+
