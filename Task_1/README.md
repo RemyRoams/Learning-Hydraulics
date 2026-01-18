@@ -21,4 +21,18 @@ Engaged State
 
 ## Bill of Materials
 
+| Number                            | Description         |
+|:---------------------------------:|---------------------|
+|2|Tank|
+|1|Double acting cylinder|
+|1|4/2-way hand-lever valve|
+|1|Pump unit|
+|1|Pressure relief valve|
+|1|Manometer|
+|1|Valve solenoid|
+|1|Electrical connection 24V| 
+|1|Electrical connection OV| 
+|1|Detent switch (make)|
+
 ## Flow of Hydraulic Oil
+
