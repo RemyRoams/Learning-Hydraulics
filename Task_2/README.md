@@ -2,7 +2,7 @@
 
 ## Overview
 
-🔹 Creating a hydraulic diagram controlling a double acting cylinder with a pilot valve for retraction.
+🔹 Creating a hydraulic diagram controlling a double acting cylinder with a pilot valve for retraction.  
 🔹 Simulating a heavy equipment.
 
 ## Hydraulic Diagrams
@@ -13,11 +13,11 @@ Hydraulic Circuit Diagram
 
 Extended Position	
 
-![Extended State](1_Extended_State.PNG)
+![Extended Position](1_Extended_State.PNG)
 
-Retracted Position
+Initial Retracting Position
 
-![Retracted State](2_Retracted_State.PNG)
+![Initial Retracting Position](2_Retracted_State.PNG)
 
 Retraction using a Pilot
 
