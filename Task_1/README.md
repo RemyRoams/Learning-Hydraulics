@@ -2,7 +2,7 @@
 
 ## Overview
 
-🔹 In order to lessen to impact of the system being subjected to the pump's maximum operating pressure, a pressure relief valve has been added after the pump discharge.
+🔹 In order to lessen to impact on the system being subjected to the pump's maximum operating pressure, a pressure relief valve has been added after the pump discharge.
 
 ## Hydraulic Diagrams
 
@@ -14,15 +14,15 @@ Extended Position
 
 ![Extended Position](1_Extended_State.PNG)
 
-Initial Retracting Position
+Retracting Position
 
-![Initial Retracting Position](2_Retracted_State.PNG)
+![Retracting Position](2_Retracted_State.PNG)
 
 ## Bill of Materials
 
 | Number                            | Description         |
 |:---------------------------------:|---------------------|
-|1|Fixed displacement pimp|
+|1|Fixed displacement pump|
 |1|Tank|
 |1|Pressure relief valve|
 |1|4/3-way hand-lever valve with bypass position|
@@ -31,5 +31,5 @@ Initial Retracting Position
 
 ## Flow of Hydraulic Oil
 
-🔹 The system has a maximimun operating pressure of 6 MPa dictated by the pump.
+🔹 The system has a maximimun operating pressure of 6 MPa dictated by the pump.  
 🔹 In order to esure safe operaion and protection the components, a pressure relief valve has been set to have a cracking pressure of 4 Mpa
