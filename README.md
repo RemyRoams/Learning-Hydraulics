@@ -1,35 +1,14 @@
-# 🛢 Limiting Maximum Pressure using a Pressure Relief Valve
+# Hydraulic Circuit Portfolio
+<a href="https://www.festo.com/"><img src="https://img.shields.io/badge/-Festo-0091D4?&style=for-the-badge&logo=industry&logoColor=white" /></a>
 
-## Overview
+## Objective
 
-🔹 In order to lessen to impact of the system being subjected to the pump's maximum operating pressure, a pressure relief valve has been added after the pump discharge.
+🔹 Create hydraulic circuit diagrams and simulations to represent actual industry applications of hydrualics
 
-## Hydraulic Diagrams
+## Projects and Skills Application
 
-Hydraulic Circuit Diagram
-
-![Hydraulic Circuit Diagram](0_Hydraulic_Diagram.PNG)
-
-Extended Position	
-
-![Extended Position](1_Extended_State.PNG)
-
-Initial Retracting Position
-
-![Initial Retracting Position](2_Retracted_State.PNG)
-
-## Bill of Materials
-
-| Number                            | Description         |
-|:---------------------------------:|---------------------|
-|1|Fixed displacement pimp|
-|1|Tank|
-|1|Pressure relief valve|
-|1|4/3-way hand-lever valve with bypass position|
-|1|Double acting cylinder|
-|3|Manometer|
-
-## Flow of Hydraulic Oil
-
-🔹 The system has a maximimun operating pressure of 6 MPa dictated by the pump.
-🔹 In order to esure safe operaion and protection the components, a pressure relief valve has been set to have a cracking pressure of 4 Mpa
+| Description                                   | Hydrualic Projects         |
+|-----------------------------------------------|----------------------------|
+| Limiting Maximum Pressure using a Pressure Relief Valve | <a href="https://github.com/RemyRoams/Learning-Hydraulics/tree/main/Task_1">Pressure Relief</a>|
+| Control a Double Acting Cylinder with a 4/2 Way Valve and a Solenoid | <a href="https://github.com/RemyRoams/Learning-Hydraulics/tree/main/Task_2">Manual and Electric</a>|
+| A Double Acting Cylinder with a Pilot Valve Retraction | <a href="https://github.com/RemyRoams/Learning-Hydraulics/tree/main/Task_3">Pilot Return</a>|
