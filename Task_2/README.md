@@ -1,9 +1,9 @@
-# 🛢 A Double Acting Cylinder with a Pilot Valve for Retraction
+# 🛢 A Double Acting Cylinder with a 4-2 Way Valve and a Solenoid
 
 ## Overview
 
-🔹 Creating a hydraulic diagram controlling a double acting cylinder with a pilot valve for retraction.  
-🔹 Simulating a heavy equipment.
+🔹 Creating a hydraulic diagram controlling a double acting cylinder with a 4/2 way valve and a solenoid.   
+🔹 Combining hands-on work experience w/ theory.  
 
 ## Hydraulic Diagrams
 
@@ -11,30 +11,28 @@ Hydraulic Circuit Diagram
 
 ![Hydraulic Circuit Diagram](0_Hydraulic_Diagram.PNG)
 
-Extended Position	
+Initial State
 
-![Extended Position](1_Extended_State.PNG)
+![Initial State](1_Initial_State.PNG)
 
-Initial Retracting Position
+Engaged State
 
-![Initial Retracting Position](2_Retracted_State.PNG)
-
-Retraction using a Pilot
-
-![Retracted Pilot](3_Pilot_Retract.jpg)
+![Engaged State](2_Engaged_State.PNG)
 
 ## Bill of Materials
 
 | Number                            | Description         |
 |:---------------------------------:|---------------------|
-|1|4/3-way hand-lever valve with bypass position|
-|1|Double acting cylinder|
-|1|Check valve with pilot control|
-|1|One-way flow control valve|
-|1|3/2-way hand-lever valve|
-|1|Pump unit|
 |2|Tank|
-|3|Manometer|
+|1|Double acting cylinder|
+|1|4/2-way hand-lever valve|
+|1|Pump unit|
 |1|Pressure relief valve|
+|1|Manometer|
+|1|Valve solenoid|
+|1|Electrical connection 24V| 
+|1|Electrical connection OV| 
+|1|Detent switch (make)|
 
 ## Flow of Hydraulic Oil
+

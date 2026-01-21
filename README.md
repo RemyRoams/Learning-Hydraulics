@@ -13,5 +13,6 @@ I aim to solidify my technical knowledge on hydraulics by combining my hands-on 
 
 | Project Details                               | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Control a Double Acting Cylinder with a 4/2 Way Valve and a Solenoid | <a href="https://github.com/RemyRoams/Learning-Hydraulics/tree/main/Task_1">Manual and Electric</a>|
-| Control a Double Acting Cylinder using a Pilot Valve for Retraction | <a href="https://github.com/RemyRoams/Learning-Hydraulics/tree/main/Task_2">Pilot Valve Retraction</a>|
+| Limiting Maximum Pressure using a Pressure Relief Valve | <a href="https://github.com/RemyRoams/Learning-Hydraulics/tree/main/Task_1">Pressure Relief</a>|
+| Control a Double Acting Cylinder with a 4/2 Way Valve and a Solenoid | <a href="https://github.com/RemyRoams/Learning-Hydraulics/tree/main/Task_2">Manual and Electric</a>|
+| Control a Double Acting Cylinder using a Pilot Valve for Retraction | <a href="https://github.com/RemyRoams/Learning-Hydraulics/tree/main/Task_3">Pilot Valve Retraction</a>|
