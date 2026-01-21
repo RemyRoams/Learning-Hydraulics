@@ -21,7 +21,7 @@ Initial Retracting Position
 
 Retraction using a Pilot
 
-![Retracted Pilot](3_Pilot_Retract.jpg)
+![Retracted Pilot](3_Pilot_Retract.PNG)
 
 ## Bill of Materials
 
@@ -38,3 +38,4 @@ Retraction using a Pilot
 |1|Pressure relief valve|
 
 ## Flow of Hydraulic Oil
+
