@@ -5,10 +5,11 @@
 
 🔹 Create hydraulic circuit diagrams and simulations to represent actual industry applications of hydrualics
 
-## Projects and Skills Application
+## Projects
 
-| Description                                   | Hydrualic Projects         |
+| Description                                   | Hydraulic Projects         |
 |-----------------------------------------------|----------------------------|
 | Limiting Maximum Pressure using a Pressure Relief Valve | <a href="https://github.com/RemyRoams/Learning-Hydraulics/tree/main/Task_1">Pressure Relief</a>|
 | Control a Double Acting Cylinder with a 4/2 Way Valve and a Solenoid | <a href="https://github.com/RemyRoams/Learning-Hydraulics/tree/main/Task_2">Manual and Electric</a>|
 | A Double Acting Cylinder with a Pilot Valve Retraction | <a href="https://github.com/RemyRoams/Learning-Hydraulics/tree/main/Task_3">Pilot Return</a>|
+
